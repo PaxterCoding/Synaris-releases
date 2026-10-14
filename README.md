@@ -57,6 +57,20 @@ xattr -cr /Applications/Synaris.app
 
 Synaris checks for a new version once a day. When one is available it asks before installing: choose **Restart and update**, or **Later** to keep working.
 
+## Built with thanks
+
+Synaris stands on the work of many open-source projects and public services. Thank you to their authors and maintainers:
+
+- **RDKit** (BSD-3-Clause): the cheminformatics engine behind structure handling and reaction logic.
+- **ReShiki** by Ameyanagi (MIT OR Apache-2.0): the structure editor core, kept as a Synaris fork.
+- **InChI** (MIT): the InChI identifier library from the InChI Project.
+- **CDXML parsing code** adapted from Glysade and Revvity / CambridgeSoft (BSD-3-Clause).
+- **3Dmol.js** (BSD-3-Clause): the 3D molecular viewer.
+- **FastAPI** (MIT), **Uvicorn** (BSD-3-Clause), **Requests** (Apache-2.0) and **PubChemPy** (MIT): the local backend and name lookup.
+- **Svelte** (MIT), **Vite** (MIT) and **Tauri** (MIT OR Apache-2.0): the interface and desktop shell.
+- **IBM Plex** and **Liberation Sans** (SIL Open Font License 1.1): the typefaces.
+- **PubChem** (NIH / NCBI) and the **NCI CACTUS** service: public chemical data used for name lookup (public services, no licence).
+
 ## Licence
 
 Synaris is proprietary software. Copyright (c) 2026 PaxterCoding. All rights reserved. Third-party licences are included with the app.
