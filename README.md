@@ -7,7 +7,7 @@
 
 <h1 align="center">Synaris</h1>
 
-<p align="center">An offline chemistry workbench for professional and PhD chemists.</p>
+<p align="center">An offline chemistry workbench for professional and student chemists.</p>
 
 <p align="center">
   <a href="https://github.com/PaxterCoding/synaris-releases/releases/latest"><b>Download for Windows (x64)</b></a> · <a href="https://github.com/PaxterCoding/synaris-releases/releases/latest"><b>Download for macOS (Apple Silicon)</b></a>
