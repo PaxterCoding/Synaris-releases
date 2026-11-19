@@ -13,7 +13,7 @@
   <a href="https://github.com/PaxterCoding/synaris-releases/releases/latest"><b>Download for Windows (x64)</b></a> · <a href="https://github.com/PaxterCoding/synaris-releases/releases/latest"><b>Download for macOS (Apple Silicon)</b></a>
 </p>
 
-<p align="center"><sub>Synaris is in early testing. If no release is listed yet, check back soon.</sub></p>
+<p align="center"><sub>Synaris is in early testing. The final product might be different.</sub></p>
 
 ## What's inside
 
